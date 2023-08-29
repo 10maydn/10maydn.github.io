@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.Tech. in Mechanical Engineering, PDPM IIITDM, India, 2021
+* M.Eng. in Mechanical Engineering, Toyohashi University of Technology, Japan, 2023
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
